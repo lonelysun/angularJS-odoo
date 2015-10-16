@@ -1,0 +1,5 @@
+node_modules/
+public/
+client/assets/components/**/*
+client/assets/js/ckeditor-plugins/lineutils/**/*
+client/assets/js/ckeditor-plugins/widget/**/*
